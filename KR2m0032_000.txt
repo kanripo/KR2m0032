@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 明宮史
-#+DATE: 2015-08-24 22:51:47.946745
-#+PROPERTY: ID KR2m0032
-#+PROPERTY: BASEEDITION WYG    
